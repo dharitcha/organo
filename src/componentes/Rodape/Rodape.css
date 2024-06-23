@@ -1,0 +1,24 @@
+.rodape {
+    background-color: #6278F7;
+    background-image: url('fundo.png');
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 64px;
+}
+
+.redes-sociais {
+    display: inline-block;
+}
+
+.rodape p {
+    color: #fff;
+    font-size: 24px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 500;
+}
+
+.rodape img {
+    padding: 16px;
+    margin-left: 24px;
+}
