@@ -24,7 +24,3 @@ Como não possuo uma equipe para organizar, decidi brincar um pouco com os perso
 - JavaScript
 - HTML
 - CSS
-
-## 🌐 Acesse o projeto:
-
-[]
