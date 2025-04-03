@@ -1,10 +1,10 @@
 # Organo
 
-![Organo Cover](https://github.com/dharitcha/organo/assets/157736779/6d815781-b22b-4b96-9f8f-dddb4dfdc66a)
-
 ## About the Project
 
 Organo is a project developed in React, based on the introductory React lessons from Alura in partnership with the Oracle Next Education (ONE) program. The goal of the project was to learn basic React concepts such as npm, components, the virtual DOM, and conditional rendering while building an application from scratch.
+
+![Organo Cover](https://github.com/dharitcha/organo/assets/157736779/6d815781-b22b-4b96-9f8f-dddb4dfdc66a)
 
 ## Features
 
