@@ -26,7 +26,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/organo.git
+   git clone https://github.com/dharitcha/react-team-organization-app.git
    ```
 2. Navigate to the project folder:
    ```sh
